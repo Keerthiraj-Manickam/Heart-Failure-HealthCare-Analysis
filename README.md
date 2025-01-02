@@ -50,7 +50,7 @@ The **Heart Failure Analysis Dashboard** provides a comprehensive analysis of su
 
 ## Interactivity
 - **Filters**:  
-  - Users can filter the visualizations by **gender** to focus on specific subsets of data.
+    Users can filter the visualizations by **gender** to focus on specific subsets of data.
 
 
 ## Insights
@@ -78,7 +78,7 @@ The **Heart Failure Analysis Dashboard** provides a comprehensive analysis of su
 
 
 ## Author
-- **KEERTHI RAJ**  
+  **KEERTHI RAJ**  
   Data Analyst / Data Scientist  
   **Contact Information**: www.linkedin.com/in/keerthi-raj-manickam-3241ab219  
 
